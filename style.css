@@ -1,0 +1,13 @@
+#play_area{
+    width: 485px;
+    height: 485px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#duck{
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    position: relative;
+}
